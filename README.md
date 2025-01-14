@@ -60,11 +60,11 @@ Ancient Scrolls: DSA, System Design, Testing
 
 ## 📚 Quest Guidelines
 
-1. Begin with Episode 1's trials
-2. Master each challenge before proceeding
-3. Forge projects to prove your worth
-4. Practice DSA rituals daily
-5. Review your learned spells often
+1. Begin with Episode 1's trials.
+2. Master each challenge before proceeding.
+3. Forge projects to prove your worth.
+4. Practice DSA rituals daily..
+5. Review your learned spells often.
 
 ## 🤝 Join the Guild
 
